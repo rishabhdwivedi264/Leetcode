@@ -4,10 +4,10 @@ class Solution {
         int start = 0;
 
         for (int end = 0; end <= chars.length; end++) {
-            // Reverse when reaching a space or the end of the string
+            
             if (end == chars.length || chars[end] == ' ') {
                 reverse(chars, start, end - 1);
-                start = end + 1; // Move start to the beginning of the next word
+                start = end + 1;
             }
         }
 
