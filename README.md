@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/rishabhdwivedi264/Leetcode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/rishabhdwivedi264/Leetcode/tree/master/0877-stone-game) |
+| [1929-concatenation-of-array](https://github.com/rishabhdwivedi264/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabhdwivedi264/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rishabhdwivedi264/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
